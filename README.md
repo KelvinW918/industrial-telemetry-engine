@@ -1,4 +1,5 @@
 # 🏭 Industrial Telemetry Engine
+[![Tests](https://github.com/KelvinW918/industrial-telemetry-engine/actions/workflows/test.yml/badge.svg)](https://github.com/KelvinW918/industrial-telemetry-engine/actions/workflows/test.yml)
 
 <div align="center">
 
